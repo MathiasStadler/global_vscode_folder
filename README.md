@@ -14,3 +14,6 @@ To make a central repositories with all settings MS Vscode based project
 
 - see the project_path.md
 <!-- keep the format -->
+
+wrong
+dudoof
