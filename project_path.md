@@ -10,3 +10,11 @@ mkdir $PWD/.vscode
 <!-- keep the format -->
 ```bash
 <!-- keep the format -->
+- 🧮 
+- 📊 
+- 🔧 
+- ✅ 
+- 🚀 
+- 📚 
+- 🔒 
+<!-- keep the format -->
