@@ -29,6 +29,6 @@ mkdir $PWD/.vscode
 >## Command to create folder and download via bash shell
 <!-- keep the format -->
 >```bash
->mkdir -p img && wget  -P img/ "https://raw.githubusercontent.com/MathiasStadler/link_symbol_svg/>360d1327d05280d53de5fa816c522f89a35891ca/img/link_symbol.svg"
+>mkdir -p img && wget  -P img/ "
 >```
 <!-- keep the format -->
