@@ -11,7 +11,8 @@ To make a central repositories with all settings MS Vscode based project
 - Save time by setup a new project
 
 ## Steps
-
+<!-- keep the format -->
 - see the project_path.md
 <!-- keep the format -->
-#<!-- >
+<!-- -->
+TODO
